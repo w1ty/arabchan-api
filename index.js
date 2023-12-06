@@ -45,5 +45,5 @@ function addImages() {
         imagesContainer.appendChild(moreButton());
     }
 }
-
+console.log(data);
 addImages();
