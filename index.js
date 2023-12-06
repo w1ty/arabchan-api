@@ -1,6 +1,6 @@
 "use strict";
 
-import { data, createImage } from "./utils.js";
+import { data, createImage } from "utils.js";
 
 const content = document.getElementById("content");
 const imagesContainer = content.lastElementChild;
